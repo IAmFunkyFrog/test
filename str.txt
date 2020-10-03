@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-dsadsqwe
-=======
-dsadasdas
->>>>>>> work
-=======
-dsadsqwe
->>>>>>> master
